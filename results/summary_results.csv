@@ -1,0 +1,9 @@
+Metric,Value
+Pure_ML_Success_Rate,28
+ML_Guided_Search_Success_Rate,87
+Adult_Mean_SPD_Before,0.248
+Adult_Mean_SPD_After,0.175
+COMPAS_Mean_SPD_Before,0.191
+COMPAS_Mean_SPD_After,0.113
+Adult_Repairs,500
+COMPAS_Repairs,100
