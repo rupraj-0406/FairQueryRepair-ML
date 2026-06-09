@@ -7,12 +7,6 @@ Machine Learning Guided Fair Query Repair with Cross-Dataset Adaptation.
 ## Project Overview
 ## Framework
 
-<h2>Framework</h2>
-
-<p align="center">
-  <img src="figures/framework_pipeline.png" width="350">
-</p>
-
 
 Modern database queries may satisfy all SQL predicates while still violating real-world fairness requirements. This project investigates how unfair queries can be automatically repaired by modifying query predicates so that the resulting query satisfies fairness constraints.
 
